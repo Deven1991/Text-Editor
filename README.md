@@ -2,7 +2,7 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+This application is a text editor that runs in the browser. The application will be a single-page application that meets the PWA criteria. This application features a number of data persistence techniques that serve as redundancy in case one of the options is not supposed by the browser. The application will also function offline. 
 
 ## Table of Contents 
 
@@ -29,26 +29,27 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Features
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+    - 'idb' - a lightweight wrapper around the IndexedDB API
+    - IndexedDB - creates an object store
+    - WebPack - bundling
+    - Babel - uses async/await
 
 ## User_Story
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
+```md
+AS A developer
+I WANT to create notes or code snippets with or without an internet connection
+SO THAT I can reliably retrieve them for later use
+```
 
 ## Links
 
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
+Deployed Application URL: http://text-editor-homework19.herokuapp.com/
 
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
+GitHub Repository URL: https://github.com/Deven1991/Text-Editor.git
 
 ## Contact
 
-If your project has a lot of features, list them here.
+Please contact Melissa Deven at mmdeven@gmail.com with any questions related to this application.
+
+GitHub URL: https://github.com/Deven1991
