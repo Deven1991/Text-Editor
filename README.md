@@ -15,17 +15,11 @@ This application is a text editor that runs in the browser. The application will
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+In order to install required packages in the command line, run "npm i." Next, type "npm run start" in order to start the application locally. 
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+To use this application, enter text into desired fields. Next, click the "Install" box or use the icon in the search bar to install locally allowing for offline use. 
 
 ## Features
 
